@@ -5,8 +5,6 @@
 
 This Power BI dashboard provides a comprehensive analysis of sales, profitability, and operational metrics across various global markets for a fictional retail company — **Global Superstore**. The goal is to uncover actionable insights from transactional data to assist in decision-making for executives and managers.
 
----
-
 ##  Features & Insights
 
 -  **Sales Performance**: Visual breakdown of total sales and profits by region, country, and product category.
@@ -20,8 +18,6 @@ This Power BI dashboard provides a comprehensive analysis of sales, profitabilit
   - Average Discount
   - Number of Orders
 -  **Customer Segments**: Revenue insights based on customer segments (Consumer, Corporate, Home Office).
-
----
 
 ##  Dataset
 
